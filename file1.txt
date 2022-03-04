@@ -1,5 +1,8 @@
+
+
+
 hello world !!
-file modified
+
 
 
 dfljhj
@@ -8,7 +11,11 @@ kjdjf
 something added now after bug1 created.
 change for bug2.
 
+
 Something added now after bug1 created.
-change:For wi4 by tam mate for rebase with conflict.
+change:For wi4 by tam mate for rebase with conflict
+s
+something added now after bug1 created.
+change:for cr1 to check rebase change/
 
 
