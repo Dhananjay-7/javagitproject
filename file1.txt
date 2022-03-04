@@ -1,4 +1,4 @@
-hello world
+hello world !!
 file modified
 
 
@@ -8,6 +8,7 @@ kjdjf
 something added now after bug1 created.
 change for bug2.
 
-something added now after bug1 created.
+Something added now after bug1 created.
+change:For wi4 by tam mate for rebase with conflict.
 
 
